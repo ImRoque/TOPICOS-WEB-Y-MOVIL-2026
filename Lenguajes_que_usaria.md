@@ -1,0 +1,3 @@
+Para el sistema de mensajeria creo que usaria Java ya que debido a lo viejo que es tiene mas variedad para adaptar diferentes tecnologias como LoRa y pues ya habia hecho anteriormente algo similar, solo seria adaptar la tecnologia de LoRa
+
+Para el sistema de reconocimiento de autos pues python ya que es el mejor para el reconocimiento de imagenes a comparacion de otros lenguajes y con eso ya es el mas conveniente porque tendria menos margen de error
